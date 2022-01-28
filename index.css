@@ -1,0 +1,71 @@
+#outline {
+    background-color: #1d459a;
+    width: 4em;
+    height: 4em;
+    padding: 0;
+    margin: auto;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    
+}
+
+#board_field {
+    width: 31em;
+    padding: auto;
+    margin: auto;
+    background-color: #1d459a;
+    border-collapse: collapse;
+    
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+canvas {
+    width: 5em;
+    height: 5em;
+    padding: 0;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 25%;
+    border-collapse: collapse;
+}
+
+#outline_table {
+    border-collapse: collapse;
+}
+
+#gameboard_table {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+
+#field_img {
+    width: 5em;
+    height: 5em;
+    border-radius: 25%;
+}
+
+table {
+    /*border: 1px solid black;*/
+    background-color: #1d459a;
+    
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+/*tr {
+    border: 2px solid yellow;
+    line-height: 0px;
+}
+td {
+    border: 1px solid red;
+    line-height: 0px;
+}*/
